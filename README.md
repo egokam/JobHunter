@@ -159,7 +159,7 @@ JobHunter-Engine
 ```bash
 git clone https://github.com/egokam/JobHunter.git
 
-cd jobhunter-engine
+cd JobHunter
 ```
 
 ---
