@@ -157,7 +157,7 @@ JobHunter-Engine
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/jobhunter-engine.git
+git clone https://github.com/egokam/JobHunter.git
 
 cd jobhunter-engine
 ```
